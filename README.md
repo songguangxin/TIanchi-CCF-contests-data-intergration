@@ -1,4 +1,4 @@
-# TIanchi-CCF-contests-data-intergration
+# TIanchi-CCF-contests-data-intergration\n
 最近参加的算法比赛的整理总结
 CCD大赛，的数据挖掘赛道：离散制造工件的质量符合率预测
 运行环境：win10
