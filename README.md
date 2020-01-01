@@ -1,6 +1,6 @@
 # TIanchi-CCF-contests-data-intergration
 最近参加的算法比赛的整理总结
-CCF大赛，的数据挖掘赛道：离散制造工件的质量符合率预测            
+CCF大赛https://www.datafountain.cn/competitions/351            
 运行环境：win10                              
                 python3.7       
                 anaconda spyder                 
