@@ -1,7 +1,7 @@
 # TIanchi-CCF-contests-data-intergration
 最近参加的算法比赛的整理总结
 CCF大赛，的数据挖掘赛道：离散制造工件的质量符合率预测            
-运行环境：win10          
+运行环境：win10                              
                 python3.7       
                 anaconda spyder                 
 在给定了P类特征和A类特征进行质量分类预测。
